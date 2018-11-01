@@ -1,0 +1,74 @@
+{
+    "success":true,
+    "data":{
+        "topicList": [{
+            "id":1,
+            "title":"读书",
+            "imgUrl":"http://upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":2,
+            "title":"摄影",
+            "imgUrl":"http://upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":3,
+            "title":"手绘",
+            "imgUrl":"http://upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":4,
+            "title":"故事",
+            "imgUrl":"//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":5,
+            "title":"自然科普",
+            "imgUrl":"http://upload.jianshu.io/collections/images/76/12.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":6,
+            "title":"简书电影",
+            "imgUrl":"http://upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        },{
+            "id":7,
+            "title":"@IT·互联网",
+            "imgUrl":"http://upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+        }],
+    
+    
+        "articleList":[{
+            "id": 1,
+            "title":"一个月看了15本书籍，只向你推荐一本",
+            "desc": "读书看报可以丰富你自己的精神世界让你反省觉察自己的不足，用和谐的方式来克服曾经的困难。让阅读成为习惯吧，不必每日如此，早上留出时间，拿别人的故事...",
+            "imgUrl": "http://upload-images.jianshu.io/upload_images/13350830-7b9a9e56b66d1c16?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id": 2,
+            "title":"好久不见",
+            "desc": "好久不见啦 文字呢 我只是偶尔会写 喜欢就关注 怪我孤陋寡闻 才疏学浅 交友啦 喜欢音乐 嗯 30岁的就不要加我了 虽然我是个宝妈...本人2...",
+            "imgUrl": "http://upload-images.jianshu.io/upload_images/11567792-e8ddfaee6debdd41.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id": 3,
+            "title":"Python 之父谈放弃 Python：我对核心成员们失望至极！",
+            "desc": "Python 之父讲述退位原因，以及 Python 的未来将何去何从。 在 Python 社区，Python 的发明者 Guido Van Ro...",
+            "imgUrl": "http://upload-images.jianshu.io/upload_images/12684358-0cb45074050a74af.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        },{
+            "id":4,
+            "title":"利用互联网收废品能月入3万？",
+            "desc":"三百六十行行行出状元 这个世界上很多行业，你都不削一顾，甚至连看都不看一眼。 但是知道么？越是没人看，越是瞧不起眼，无人问津的行业，越是有他们的...",
+            "imgUrl":"http://upload-images.jianshu.io/upload_images/13541598-fe3a883507392ce6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+        }],
+    
+        "recommendList":[{
+            "id":1,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+        },{
+            "id": 2,
+            "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+        },{
+            "id":3,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        },{
+            "id":4,
+            "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        },{
+            "id": 5,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }]
+    }
+}
